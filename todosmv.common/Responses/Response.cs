@@ -1,6 +1,6 @@
-﻿namespace todosmv.common.responses
+﻿namespace todosmv.Common.responses
 {
-    public class Responses
+    public class Response
     {
         public bool IsSuccess { get; set; }
 

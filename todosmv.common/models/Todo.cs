@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace todosmv.common.models
+namespace todosmv.Common.models
 {
     public class Todo
     {
