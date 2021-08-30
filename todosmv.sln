@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todosmv.Common", "todosmv.common\todosmv.Common.csproj", "{4487F098-6695-451C-8461-8F4A210C4130}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todosmv.Common", "todosmv.common\todosmv.Common.csproj", "{4487F098-6695-451C-8461-8F4A210C4130}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todosmv.functions", "todosmv.functions\todosmv.functions.csproj", "{A6B99642-E7EE-4470-9CEB-FA4E39ABA88E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todosmv.functions", "todosmv.functions\todosmv.functions.csproj", "{A6B99642-E7EE-4470-9CEB-FA4E39ABA88E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todosmv.tests", "todosmv.tests\todosmv.tests.csproj", "{F57A6262-A910-4A93-B65E-0E9E841EB690}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todosmv.tests", "todosmv.tests\todosmv.tests.csproj", "{F57A6262-A910-4A93-B65E-0E9E841EB690}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
